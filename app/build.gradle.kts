@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.hel.pkaykids"
+    namespace = "com.hel.playkids"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.hel.pkaykids"
+        applicationId = "com.hel.playkids"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

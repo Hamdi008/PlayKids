@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PkayKids"
+rootProject.name = "PlayKids"
 include(":app")
  
