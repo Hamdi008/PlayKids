@@ -1,4 +1,4 @@
-package com.hel.pkaykids
+package com.hel.playkids
 
 import org.junit.Test
 

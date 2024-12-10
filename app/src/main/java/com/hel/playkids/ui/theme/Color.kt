@@ -1,4 +1,4 @@
-package com.hel.pkaykids.ui.theme
+package com.hel.playkids.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
